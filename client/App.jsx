@@ -11,6 +11,7 @@ class App extends React.Component {
   render() {
     return (<div>APP
       <canvas id="af-canvas"></canvas>
+
     </div>)
   }
 }
