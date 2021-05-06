@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Chart from 'chart.js';
 
 
 class App extends React.Component {
@@ -10,7 +9,7 @@ class App extends React.Component {
 
   render() {
     return (<div>APP
-      <canvas id="af-canvas"></canvas>
+
     </div>)
   }
 }
